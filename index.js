@@ -58,8 +58,8 @@ class ADSBExchange {
   }
 
   _makeQueryUrl(query) {
-    let queryParams = [];
-    for (let key in query) {
+    const queryParams = [];
+    for (const key in query) {
       if (query.hasOwnProperty(key)) {
         if (key === 'json') {
           queryParams.push(key);

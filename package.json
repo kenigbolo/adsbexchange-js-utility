@@ -1,6 +1,6 @@
 {
   "name": "adsbexchange-js-utility",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny javascript utility to make api requests to adsbexchange api server",
   "main": "index.js",
   "scripts": {
