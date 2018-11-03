@@ -1,0 +1,35 @@
+{
+  "name": "adsbexchange-js-utility",
+  "version": "0.1.0",
+  "description": "A tiny javascript utility to make api requests to adsbexchange api server",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenigbolo/adsbexchange-node-utility.git"
+  },
+  "keywords": [
+    "adsb",
+    "ads-b",
+    "adsbexchange",
+    "flight",
+    "radar",
+    "flight",
+    "data"
+  ],
+  "author": "Kenigbolo Meya Stephen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenigbolo/adsbexchange-js-utility/issues"
+  },
+  "homepage": "https://github.com/kenigbolo/adsbexchange-js-utility#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^5.8.0",
+    "eslint-config-google": "^0.11.0",
+    "mocha": "^5.2.0",
+    "prettier": "^1.14.3"
+  }
+}
