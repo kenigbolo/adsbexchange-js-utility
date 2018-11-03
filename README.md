@@ -17,7 +17,7 @@
 
 This is a tiny module that allows making requests to the adsbexchange.com api. The npm package exposes a tiny utility class called ADSBExchange. The utility class can be used to leverage making requests to the the adsbexchange api. This utility will be actively maintained in collaboration with the team at ADS-B Exchange to keep it up to date with the information available on [ADS-B Exchange](https://www.adsbexchange.com/data/)
 
-## NPM / YARN
+## NPM
 
 This package has been published on [NPM](https://www.npmjs.com/package/adsbexchange-js-utility) and is freely available according to the MIT license. To install via npm simply run `npm install adsbexchange-js-utility` and via yarn `yarn add adsbexchange-js-utility`.
 
