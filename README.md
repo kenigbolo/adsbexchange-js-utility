@@ -34,7 +34,7 @@ adsbExchange.request('aircraft', 'json').then((response) => {
 });
 
 /* Request based on async/await style */
-const requestData = asyn () => {
+const requestData = async () => {
   const response = await adsbExchange.request('aircraft', 'json');
   // response contains the required data
   console.log(response);
