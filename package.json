@@ -27,7 +27,7 @@
   "homepage": "https://github.com/kenigbolo/adsbexchange-js-utility#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "eslint": "^5.8.0",
+    "eslint": "^6.0.0",
     "eslint-config-google": "^0.13.0",
     "mocha": "^6.0.0",
     "prettier": "^1.14.3"
