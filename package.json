@@ -29,7 +29,7 @@
     "chai": "^4.2.0",
     "eslint": "^6.0.0",
     "eslint-config-google": "^0.14.0",
-    "mocha": "^6.0.0",
+    "mocha": "^7.0.0",
     "prettier": "^1.14.3"
   }
 }
